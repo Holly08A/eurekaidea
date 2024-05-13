@@ -1,7 +1,8 @@
 ---
 title: Product features
-draft: true
-tags: 
+draft: false
+tags:
+  - todo
 date: 2024-05-13
 ---
  

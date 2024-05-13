@@ -2,7 +2,6 @@
 title: Eurek.ai Diary Product Idea
 date: 2024-05-13
 ---
- 
 - [[Target audience]]
 - [[Competitor Analysis]]
 - [[Product features & contents]] #todo
