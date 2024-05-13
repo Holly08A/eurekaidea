@@ -5,21 +5,6 @@ tags:
 date: 2024-05-13
 ---
  
-- [[#1. Target Audience Persona|1. Target Audience Persona]]
-	- [[#1. Target Audience Persona#1.1 Young, growth-minded individuals 🤓|1.1 Young, growth-minded individuals 🤓]]
-		- [[#1.1 Young, growth-minded individuals 🤓#1) Basic Info|1) Basic Info]]
-		- [[#1.1 Young, growth-minded individuals 🤓#2) Motivation and key insights|2) Motivation and key insights]]
-	- [[#1. Target Audience Persona#1.2 Creative Professionals/ Content Creators 🧑‍🎨 - to be considered|1.2 Creative Professionals/ Content Creators 🧑‍🎨 - to be considered]]
-		- [[#1.2 Creative Professionals/ Content Creators 🧑‍🎨 - to be considered#1) Basic Info|1) Basic Info]]
-		- [[#1.2 Creative Professionals/ Content Creators 🧑‍🎨 - to be considered#2) Motivation and key insights|2) Motivation and key insights]]
-- [[#2. Related Demographics for Reference|2. Related Demographics for Reference]]
-	- [[#2. Related Demographics for Reference#INXX people (MBTI)|INXX people (MBTI)]]
-	- [[#2. Related Demographics for Reference#Young Children and Teenagers|Young Children and Teenagers]]
-	- [[#2. Related Demographics for Reference#Those with Higher Writing Enjoyment|Those with Higher Writing Enjoyment]]
-	- [[#2. Related Demographics for Reference#Introspective and Expressive Individuals|Introspective and Expressive Individuals]]
-	- [[#2. Related Demographics for Reference#Confident and Ambitious People|Confident and Ambitious People]]
-	- [[#2. Related Demographics for Reference#Public Figures and Writers|Public Figures and Writers]]
-
 ### 1. Target Audience Persona
 
 #### 1.1 Young, growth-minded individuals 🤓
@@ -150,7 +135,7 @@ date: 2024-05-13
 ### 2. Related Demographics for Reference
 
 #### INXX people (MBTI)
-[[Eureka - Competitor Analysis]]
+[[Competitor Analysis]]
 
 #### Young Children and Teenagers
 

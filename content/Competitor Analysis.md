@@ -5,26 +5,6 @@ tags:
 date: 2024-05-13
 ---
 
-- [[#1. Insights & Conclusion|1. Insights & Conclusion]]
-- [[#2. Methodology|2. Methodology]]
-- [[#3. Comparison Charts|3. Comparison Charts]]
-	- [[#3. Comparison Charts#3.1 App Features|3.1 App Features]]
-	- [[#3. Comparison Charts#3.2 App downloads & revenue|3.2 App downloads & revenue]]
-	- [[#3. Comparison Charts#3.3 Lifelight AI Companion & Mood Tracker Diary Analysis|3.3 Lifelight AI Companion & Mood Tracker Diary Analysis]]
-		- [[#3.3 Lifelight AI Companion & Mood Tracker Diary Analysis#SWOT Analysis|SWOT Analysis]]
-		- [[#3.3 Lifelight AI Companion & Mood Tracker Diary Analysis#User Persona|User Persona]]
-- [[#4. Archive details|4. Archive details]]
-	- [[#4. Archive details#4.1 Traditional journaling|4.1 Traditional journaling]]
-		- [[#4.1 Traditional journaling#1. Day One App|1. Day One App]]
-		- [[#4.1 Traditional journaling#2. Moo Diary|2. Moo Diary]]
-		- [[#4.1 Traditional journaling#3. Diarly: Private Daily Journal|3. Diarly: Private Daily Journal]]
-		- [[#4.1 Traditional journaling#4. My Diary - Journal with Lock|4. My Diary - Journal with Lock]]
-		- [[#4.1 Traditional journaling#5. Journey: Diary, Journal|5. Journey: Diary, Journal]]
-		- [[#4.1 Traditional journaling#6. Daylio Journal - Daily Diary|6. Daylio Journal - Daily Diary]]
-		- [[#4.1 Traditional journaling#7. Grid Diary|7. Grid Diary]]
-	- [[#4. Archive details#4.2 Journals with AI|4.2 Journals with AI]]
-		- [[#4.2 Journals with AI#1. Lifelight|1. Lifelight]]
-
 ## 1. Insights & Conclusion
 
 Overall, the diary app market seems to be very competitive, with a mix of established players and newer entrants offering a range of features to cater to different user preferences. Successful apps focus on user experience, emotional well-being, customization, and innovative features like AI assistance to stand out in the market.
@@ -80,36 +60,39 @@ This competitor analysis is conducted through desk research on available statist
 
 #### SWOT Analysis
 
-| Strengths                                                                                                                                                                                                                                                                                                                                                          | Weaknesses                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. First starter to integrate AI chat with diary<br><br>2. Photo album view of diary - beautiful and satisfying to see<br><br>3. Analysis of frequent words/ topics and sentimental analysis of mood<br><br>4. Increase stickiness and cost of switching of user because of the nature of writing diaries                                                          | 1. The AI companion is a bit stupid for now, only saying words that "feels right", no motivation of character behind<br><br>2. Bugs are frequent (missed typing, absence of AI response after writing a diary), quite frustrating to use<br><br>3. Especially bad in language translation & understanding (unimportant frequent words are shown as top keywords)<br><br>4. Lack of multi-platform support - desktop version is bad<br><br>5. Complicated functions & interface<br> |
-| **Opportunities**                                                                                                                                                                                                                                                                                                                                                  | **Threats**                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 1. AI characters like inworld could be leveraged as engaging AI companions in diary<br><br>2. Add guided journaling and personalized recommendations<br><br>3. Partner with mental health professionals for content and resources<br><br>4. Improve NLP and sentiment analysis for better insights<br><br>5. Expand to desktop and web platforms for accessibility | 1. Competition from established diary apps with similar features<br><br>2. Privacy and security concerns related to AI and personal data<br><br>3. Potential backlash from AI companions providing inappropriate responses<br><br>4. Technical challenges in developing a robust and reliable AI system<br><br>5. Dependence on third-party AI technologies and services                                                                                                           |
+| Strengths                                                                                                                                                                                                                                                                                                                                          | Weaknesses                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1. First starter to integrate AI chat with diary<br>2. Photo album view of diary - beautiful and satisfying to see<br>3. Analysis of frequent words/ topics and sentimental analysis of mood<br>4. Increase stickiness and cost of switching of user because of the nature of writing diaries                                                      | 1. The AI companion is a bit stupid for now, only saying words that "feels right", no motivation of character behind<br>2. Bugs are frequent (missed typing, absence of AI response after writing a diary), quite frustrating to use<br>3. Especially bad in language translation & understanding (unimportant frequent words are shown as top keywords)<br>4. Lack of multi-platform support - desktop version is bad<br>5. Complicated functions & interface<br> |
+| **Opportunities**                                                                                                                                                                                                                                                                                                                                  | **Threats**                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 1. AI characters like inworld could be leveraged as engaging AI companions in diary<br>2. Add guided journaling and personalized recommendations<br>3. Partner with mental health professionals for content and resources<br>4. Improve NLP and sentiment analysis for better insights<br>5. Expand to desktop and web platforms for accessibility | 1. Competition from established diary apps with similar features<br>2. Privacy and security concerns related to AI and personal data<br>3. Potential backlash from AI companions providing inappropriate responses<br>4. Technical challenges in developing a robust and reliable AI system<br>5. Dependence on third-party AI technologies and services                                                                                                           |
 
 #### User Persona
 https://mp.weixin.qq.com/s/QFiqRq10eL7m88UVPaCXfg
 ![[Screenshot 2024-05-11 at 11.48.37.png]]
-1. Lifelight User MBTI Distribution:
+
+1. **Lifelight User MBTI Distribution:**
 	- 30.6% are INFJ (Warm Protectors)
 	- 14.3% are INFP (Sincere Dreamers) and INTP (Selfless Thinkers)
 	- Other types include INTJ, ISFJ, ENFP, ISTJ, ISTP, ISFP, ENFJ, and ESFP
 
-2. Lifelight vs. Global MBTI Comparison:
+
+2. **Lifelight vs. Global MBTI Comparison:**
 	- INFJ, INFP, INTP, and INTJ are significantly overrepresented in Lifelight compared to global averages
 	- INFJ users are 20 times more prevalent in Lifelight than the global average (TGI: 2040%)
 	- INFP, INTP, and INTJ users are 3-4 times more prevalent in Lifelight than global averages
 
-3. Lifelight User MBTI Dimension Distribution:
+
+3. **Lifelight User MBTI Dimension Distribution:**
 	- Introversion (I) vs. Extroversion (E): 85.7% are introverted, 14.3% are extroverted
 	- Intuition (N) vs. Sensing (S): 77.6% are intuitive, 22.4% are sensing
 	- Thinking (T) vs. Feeling (F): 30.6% are thinking, 69.4% are feeling
 	- Judging (J) vs. Perceiving (P): 49.0% are judging, 51.0% are perceiving
 
-4. Why I and IN types love journaling:
+4. **Why I and IN types love journaling:**
 - Introverts (I) enjoy quiet, solitary environments for reflection and independent work
 - Intuitives (N) seek meaning, possibilities, and imagination beyond surface-level facts
 
-5. The Value of Journaling:  
+5. **The Value of Journaling:**  
     Scholars across economics, psychology, and design recommend journaling for:
 	- Setting goals and tracking progress (The Richest Man in Babylon)
 	- Managing emotions and thoughts (Feeling Good: The New Mood Therapy)
