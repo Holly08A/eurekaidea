@@ -3,10 +3,10 @@ title: Eurek.ai Diary Product Idea
 date: 2024-05-13
 tags:
 ---
-- [[Target audience]]
-- [[Competitor Analysis]]
-- [[Product features & contents]] #todo
-- [[Prototype & Interface]] #todo
+- [[Target-audience]]
+- [[Competitor-Analysis]]
+- [[Product-features-&-contents]] #todo
+- [[Prototype-&-Interface]] #todo
 
 ### Product positioning
 Diary + AI mentors based on historical figures
