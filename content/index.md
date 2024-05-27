@@ -5,6 +5,7 @@ tags:
 ---
 - [[Target-audience]]
 - [[Competitor-Analysis]]
+- [[LLM comparison]]
 - [[Product-features-&-contents]] #todo
 - [[Prototype-&-Interface]] #todo
 
